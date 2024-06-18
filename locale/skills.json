@@ -1,0 +1,65 @@
+{
+    "skills": [
+        {
+          "title": "Web Development",
+          "description": "Building responsive and accessible websites.",
+          "icon": "img/icons/webdevelopment.png",
+          "proficiency": "Expert",
+          "tools": [
+            {"name": "HTML", "url": "https://developer.mozilla.org/en-US/docs/Web/HTML"},
+            {"name": "CSS", "url": "https://developer.mozilla.org/en-US/docs/Web/CSS"},
+            {"name": "JavaScript", "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"}
+          ]
+        },
+        {
+          "title": "Graphic Design",
+          "description": "Creating visually appealing digital art.",
+          "icon": "img/icons/graphicdesign.png",
+          "proficiency": "Beginner",
+          "tools": [
+            {"name": "Photoshop", "url": "https://www.adobe.com/products/photoshop.html"},
+            {"name": "Illustrator", "url": "https://www.adobe.com/products/illustrator.html"}
+          ]
+        },
+        {
+          "title": "Video Editing",
+          "description": "Editing and producing videos.",
+          "icon": "img/icons/videoediting.png",
+          "proficiency": "Intermediate",
+          "tools": [
+            {"name": "Premiere Pro", "url": "https://www.adobe.com/products/premiere.html"},
+            {"name": "After Effects", "url": "https://www.adobe.com/products/aftereffects.html"}
+          ]
+        },
+        {
+          "title": "Mobile Development",
+          "description": "Building mobile applications for Android.",
+          "icon": "img/icons/appdevelopment.png",
+          "proficiency": "Intermediate",
+          "tools": [
+            {"name": "Java", "url": "https://www.java.com/en/download/help/whatis_java.html"},
+            {"name": "Kotlin", "url": "https://kotlinlang.org"}
+          ]
+        },
+        {
+          "title": "UI/UX Design",
+          "description": "Creating intuitive and user-friendly interfaces.",
+          "icon": "img/icons/uiux.png",
+          "proficiency": "Expert",
+          "tools": [
+            {"name": "Figma", "url": "https://www.figma.com"}
+          ]
+        },
+        {
+          "title": "3D Modeling",
+          "description": "Creating 3D models and animations.",
+          "icon": "img/icons/3dmodelling.png",
+          "proficiency": "Intermediate",
+          "tools": [
+            {"name": "Blender", "url": "https://www.blender.org"},
+            {"name": "Maya", "url": "https://www.autodesk.co.uk/products/maya/overview?mktvar002=3466774|SEM|15984960873|135583738507|kwd-11205246&utm_source=GGL&utm_medium=SEM&utm_campaign=GGL_M-E_Maya_EMEA_GB_Visits_SEM_BR_New_EX_0006_3466774&utm_id=3466774&utm_term=kwd-11205246&gclsrc=aw.ds&&ef_id=Cj0KCQjwzZmwBhD8ARIsAH4v1gVtKW5rTsxNOTrlsirPXH2GIc9VgCe3L3SlsQTMp7v8RcqIqvw7v3oaAhEnEALw_wcB:G:s&s_kwcid=AL!11172!3!576575827593!b!!g!!maya!15984960873!135583738507&mkwid=s|pcrid|576575827593|pkw|maya|pmt|b|pdv|c|slid||pgrid|135583738507|ptaid|kwd-11205246|pid|&utm_medium=cpc&utm_source=google&utm_campaign&utm_term=maya&utm_content=s|pcrid|576575827593|pkw|maya|pmt|b|pdv|c|slid||pgrid|135583738507|ptaid|kwd-11205246|&gad_source=1&gclid=Cj0KCQjwzZmwBhD8ARIsAH4v1gVtKW5rTsxNOTrlsirPXH2GIc9VgCe3L3SlsQTMp7v8RcqIqvw7v3oaAhEnEALw_wcB&term=1-YEAR&tab=subscription&plc=MAYA"}
+          ]
+        }
+    ]
+}
+  

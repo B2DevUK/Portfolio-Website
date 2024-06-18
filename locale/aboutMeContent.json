@@ -1,0 +1,35 @@
+{
+    "stories": [
+      {
+        "imgSrc": "img/2012olympics.png",
+        "imgAlt": "2012",
+        "text": "My journey began in 2012, when playing video games was my only hobby. I was fascinated by the idea of creating my own games. However, I began to become infatuated with software development as a whole, not just the idea of game development. This was the year of the 2012 London Olympics!",
+        "position": "left"
+      },
+      {
+        "imgSrc": "img/2015nepal.jpg",
+        "imgAlt": "2015",
+        "text": "In 2015, I took a significant step by deciding to take GCSE Computer Science as part of my English Baccalaureate. This was a good decision that steered me on the right path, though I found the mostly theory based and pseudocode practicals to be rather boring. This really sparked my interest into what was on offer elsewhere on the internet. This was about the time that I first experimented with Front End Web Development! This was the year that 8,964 people tragically lost their lives and 21,952 more were injured in The Gorkha Earthquake in Nepal. ",
+        "position": "right"
+      },
+      {
+        "imgSrc": "img/2020covid.jpg",
+        "imgAlt": "2020",
+        "text": "Fast forward to 2020, I enrolled in a BsC Honours in Computer Science at De Montfort University in Leicester. My first year consisted of a variety of modules. I found myself dabbling in SQL, Scala, Computer Law & Ethics, and being properly introduced into Object Oriented Development. This was a year that was heavily impacted by the COVID-19 pandemic, which saw the world go into lockdown, and the UK government enforcing a 'stay at home' order. This was the year I and the rest of the world were introduced to the concept of 'Zoom' and 'Microsoft Teams'! This was also the year that the Black Lives Matter movement gained significant traction, though it has since been plagued by controversy and criticism, it was a significant year for the movement.",
+        "position": "left"
+      },
+      {
+        "imgSrc": "img/2022ukraine.jpg",
+        "imgAlt": "2021/22",
+        "text": "In 2021/22, my second year of uni, I found myself partaking in several modules which really advanced my knowledge and skills. I was introduced to the world of Java, and I was able to apply my knowledge of SQL to a real world scenario. I also found myself learning about the importance of software testing, and the importance of good software design. I dabbled in Back End Web Development in the form of PHP, as well as really diving into Data Structures and Algorithms, which was really fun as my brain is quite mathematical! This was the year that the world watched in horror as Russia invaded Ukraine. US and British intelligence had been warning of an imminent invasion since late 2021. This is also the year that the Taliban took over Afghanistan, the US Capitol was stormed by Far Right Activists, and the UK left the EU.",
+        "position": "right"
+      },
+      {
+        "imgSrc": "img/2024.jpg",
+        "imgAlt": "2023/24",
+        "text": "Now, we find ourselves in 2023/24! I'm currently in my final year of my course, working on several personal projects, and lots of interesting modules of my choice! Multi-Service Networking was a big challenge. I found myself sat in Cisco Packet Tracer for hours at a time, hand crafting my own expansive networks. My personal development project consists of a Kotlin based Calorie Counting/Nutrition Application. This is a biiiiig project that is currently still in the works as we speak! I've completed a module related to mobile application development where I created a cafe ordering application, and I am also taking Front End Web Development, one of my old passions. This year marks the fourth anniversary of The World Health Organization declaring Covid-19 a Global Pandemic.",
+        "position": "left"
+      }
+    ]
+  }
+  

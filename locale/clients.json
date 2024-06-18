@@ -1,0 +1,38 @@
+{
+    "currentClients": [
+      {
+        "company": "The Estate Studios FiveM",
+        "location": "Leicester, UK",
+        "skills": ["Lua Scripting", "3D Modelling & Design", "Database Design & Management"],
+        "icons": ["lua", "modeling", "database", "html", "css", "js"]
+      }
+      
+    ],
+    "pastClients": [
+      {
+        "company": "Complex Studios LTD",
+        "location": "Hybrid - Leicester, UK",
+        "skills": ["Lua Scripting", "3D Modelling & Design", "Database Design & Management"],
+        "icons": ["lua", "modeling", "database", "html", "css", "js"]
+      },
+      {
+        "company": "Conflict Studios LTD",
+        "location": "Hybrid - Leicester, UK",
+        "skills": ["Lua Scripting", "3D Modelling & Design", "Database Design & Management"],
+        "icons": ["lua", "modeling", "database", "html", "css", "js"]
+      },
+      {
+        "company": "Holistic Community Health Services",
+        "location": "Coventry, UK",
+        "skills": ["Web Development & Design", "Database Design & Management"],
+        "icons": ["html", "css", "js"]
+      },
+      {
+        "company": "B'Spoke Indian Foods",
+        "location": "Coventry, UK",
+        "skills": ["Web Development & Design", "Database Design & Management"],
+        "icons": ["html", "css", "js"]
+      }
+    ]
+  }
+  
